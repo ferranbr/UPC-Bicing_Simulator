@@ -1,6 +1,6 @@
-# 🚲 Bifurcated Bicing (OPRO2 Project - UPC)
+# 🚲 Bifurcated Bicing (PRO2 Project - UPC)
 
-This is a C++ university project for the OPRO2 (Object-Oriented Programming) course at UPC-FIB. [cite_start]The program simulates a "Bicing" (bike-sharing) management system with a unique core feature: the stations are organized in a hierarchical **binary tree structure** [cite: 211-212].
+This is a C++ university project for the PRO2 (Object-Oriented Programming) course at UPC-FIB. [cite_start]The program simulates a "Bicing" (bike-sharing) management system with a unique core feature: the stations are organized in a hierarchical **binary tree structure** [cite: 211-212].
 
 The system manages the complete lifecycle of bicycles, stations, and trips. It notably implements complex recursive algorithms to rebalance the bike network and efficiently assign new bikes to stations based on need.
 
