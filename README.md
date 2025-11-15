@@ -6,9 +6,6 @@ The system manages the complete lifecycle of bicycles, stations, and trips. It n
 
 
 
-[Image of a binary tree data structure]
-
-
 ## ⚙️ Core Features
 
 The program accepts a series of commands via the console to manage the network:
